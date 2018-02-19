@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinExchangeMarketer", "CoinExchangeMarketer\CoinExchangeMarketer.csproj", "{E3F160F9-D1CB-4E9C-9692-231328CCDB7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3F160F9-D1CB-4E9C-9692-231328CCDB7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3F160F9-D1CB-4E9C-9692-231328CCDB7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3F160F9-D1CB-4E9C-9692-231328CCDB7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3F160F9-D1CB-4E9C-9692-231328CCDB7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42DB4CC5-8D4D-436D-8122-B1833CD618A4}
+	EndGlobalSection
+EndGlobal
