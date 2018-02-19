@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{E3F160F9-D1CB-4E9C-9692-231328CCDB7B}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>CoinExchangeMarketer</RootNamespace>
+    <RootNamespace>Nora.CC.ConExchangeMarketer</RootNamespace>
     <AssemblyName>CoinExchangeMarketer</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

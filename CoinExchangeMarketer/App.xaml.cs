@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace CoinExchangeMarketer
+namespace Nora.CC.ConExchangeMarketer
 {
     /// <summary>
     /// App.xaml の相互作用ロジック
